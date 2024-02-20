@@ -1,1 +1,2 @@
-# Nado
+#Nado
+Writeline(Hello world);
